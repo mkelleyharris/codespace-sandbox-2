@@ -17,3 +17,5 @@ https://docs.github.com/en/codespaces/developing-in-a-codespace/using-source-con
 1. Save the file as with any other file CTRL+S
 2. CTRL+W, ENTER to exit after making the changes and return you to the terminal”
 
+Collaboration/Pairing:
+* Inviting/allowing another person: TBD
