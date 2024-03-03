@@ -1,0 +1,19 @@
+
+Codespace Setup:
+TBD
+
+Deno use:
+* Can install deno via terminal with:
+$ curl -fsSL https://deno.land/install.sh | sh
+* Deno is persisted accross sessions
+* shell environment variables are not persisted accross copespace sessions
+* can use full deno path. e.g./home/codespace/.deno/bin/deno test
+
+Git Use:
+*Using source control in your codespace
+https://docs.github.com/en/codespaces/developing-in-a-codespace/using-source-control-in-your-codespace
+* You can use the terminal in the codespace for git CLI use.
+* Comment (multi-line) ending via :wq <enter>
+1. Save the file as with any other file CTRL+S
+2. CTRL+W, ENTER to exit after making the changes and return you to the terminal”
+
