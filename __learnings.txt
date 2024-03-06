@@ -19,3 +19,5 @@ https://docs.github.com/en/codespaces/developing-in-a-codespace/using-source-con
 
 Collaboration/Pairing:
 * Inviting/allowing another person: TBD
+
+REFERENCES
